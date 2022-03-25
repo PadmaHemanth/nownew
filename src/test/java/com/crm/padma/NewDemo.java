@@ -10,11 +10,13 @@ public class NewDemo {
 		
 		System.out.println("its friday");
 		
+
 		System.out.println("=================");
 
+		System.out.println("its afternoon");
 		
-		
-		
+		System.out.println("++++++++++++++");
+
 	}
 
 }

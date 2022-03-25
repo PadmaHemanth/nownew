@@ -9,6 +9,12 @@ public class NewDemo {
 		System.out.println("good mrng");
 		
 		System.out.println("its friday");
+		
+		System.out.println("=================");
+
+		
+		
+		
 	}
 
 }
